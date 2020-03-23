@@ -1,0 +1,12 @@
+D:\workspace\VoiceModChat\bin\Debug\VoiceModChat.exe.config
+D:\workspace\VoiceModChat\bin\Debug\VoiceModChat.exe
+D:\workspace\VoiceModChat\bin\Debug\VoiceModChat.pdb
+D:\workspace\VoiceModChat\bin\Debug\Fleck.dll
+D:\workspace\VoiceModChat\bin\Debug\Z.ExtensionMethods.dll
+D:\workspace\VoiceModChat\bin\Debug\Z.ExtensionMethods.pdb
+D:\workspace\VoiceModChat\bin\Debug\Z.ExtensionMethods.xml
+D:\workspace\VoiceModChat\obj\Debug\VoiceModChat.csproj.CoreCompileInputs.cache
+D:\workspace\VoiceModChat\obj\Debug\VoiceModChat.csproj.CopyComplete
+D:\workspace\VoiceModChat\obj\Debug\VoiceModChat.exe
+D:\workspace\VoiceModChat\obj\Debug\VoiceModChat.pdb
+D:\workspace\VoiceModChat\obj\Debug\VoiceModChat.csprojAssemblyReference.cache
