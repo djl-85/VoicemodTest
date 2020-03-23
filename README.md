@@ -1,7 +1,7 @@
 # VoicemodTest
 Architecture explanation:
 
-- Factory design patter: The static class ChatMemberFactory implements this desing pattern, where you can provide with an enum which object type do you want with the same arguments for any kind.
+- Factory design pattern: The static class ChatMemberFactory implements this desing pattern, where you can provide with an enum which object type do you want with the same arguments for any kind.
 
 - Dependency injection: The ChatSession class represents a chat session and in its constructor receives an IChatMember instance. This class does not need to know what kind of chat member is the provided instance (server or client). 
 			It just calls the needed methods to work.
